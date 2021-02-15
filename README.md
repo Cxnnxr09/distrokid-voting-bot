@@ -1,3 +1,3 @@
 # Coomer
-The beta is just a prgram that opens and votes
+The beta is just a program that opens and votes /n
 Main is a multithreaded automatic bot factory 
